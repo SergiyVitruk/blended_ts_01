@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/01-ts-basics/",
+    "build": "vite build --base=/blended_ts_01/",
     "preview": "vite preview"
   },
   "devDependencies": {
