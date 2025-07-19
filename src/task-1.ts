@@ -1,4 +1,4 @@
-interface Setting {
+type Setting = {
     darkMode: boolean;
     fontSize: number;
     language: string;

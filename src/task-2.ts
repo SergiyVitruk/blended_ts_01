@@ -1,5 +1,10 @@
 type Currency = "USD" | "EUR" | "UAH";
 
+// type ConvertCurrencyInt = {
+//   amount: number;
+//   currency: Currency;
+// }
+
 interface ConvertCurrencyInt {
   amount: number;
   currency: Currency;
